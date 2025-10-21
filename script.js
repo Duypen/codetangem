@@ -819,7 +819,7 @@ let galaxyAudio = null;
 
 function preloadGalaxyAudio() {
   const audioSources = [
-   "https://www.youtube.com/watch?v=PTAO0VPXHKU&list=RDPTAO0VPXHKU&start_radio=1"
+   "dunglamtraitimanhdau.mp3"
   ];
 
   const randomIndex = Math.floor(Math.random() * audioSources.length);
